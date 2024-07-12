@@ -21,9 +21,23 @@
 Install with python
 
   1. Download Python 3.10+
-  2. Install Module (pip install requests colorama)
+  2. Install Module ```pip install requests colorama```
   3. Buka Bot Blum di PC (Telegram Web / Desktop)
 
+```
+git clone https://github.com/AirdropFamilyIDN-V2-0/blum.git
+```
+```
+cd blum
+```
+```
+pip install requests colorama
+```
+```
+pyhton blumv3.pyc
+```
+
+- ```Edit data.txt dengan Queryid```
 
 
 # Features
