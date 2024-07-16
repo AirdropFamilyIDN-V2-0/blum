@@ -34,7 +34,7 @@ cd blum
 pip install requests colorama
 ```
 ```
-pyhton blumv3.pyc
+pyhton blumv3.py
 ```
 
 - ```Edit data.txt dengan Queryid```
